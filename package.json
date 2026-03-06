@@ -1,0 +1,21 @@
+{
+  "name": "2025573010053_algoritma_dan_struktur_data",
+  "version": "1.0.0",
+  "description": "HELLO WORLD!!!!\r Nama : Muhammad Ihsan\r NIM : 2025573010053\r Alamat : Takengon Aceh Tengah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhsanJawa806-ui/2025573010053_Algoritma_Dan_Struktur_Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IhsanJawa806-ui/2025573010053_Algoritma_Dan_Struktur_Data/issues"
+  },
+  "homepage": "https://github.com/IhsanJawa806-ui/2025573010053_Algoritma_Dan_Struktur_Data#readme"
+}
